@@ -52,7 +52,7 @@
                 <br />
 
                 <div>
-                  <h1><i class="fa fa-paw"></i> Dairy Farm Management System</h1>
+                  <h1><i class="fa fa-paw"></i> Dairy Farm Management  System</h1>
                 </div>
               </div>
             </form>
